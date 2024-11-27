@@ -1,3 +1,3 @@
-# Ai-flashcards
+Insert an api key and watch it work
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/matfat55/Ai-flashcards)
+made entirely by [Bolt.new](https://bolt.new)
